@@ -9,15 +9,3 @@ git status
 
 
 git add file name
-
-
-git log= list all the commits in chronlogical order
-
-
-git remote add origin "repository URL"
-
-git push origin master
-
-
-
-command to uncommit files
